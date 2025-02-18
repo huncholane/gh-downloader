@@ -18,12 +18,6 @@ Alternatively, you can install it directly from GitHub:
 pip install git+https://github.com/huncholane/gh-downloader.git
 ```
 
-To install the tool, use the following command:
-
-```bash
-pip install .
-```
-
 ## Usage
 
 To download a folder or an entire repository, use:
